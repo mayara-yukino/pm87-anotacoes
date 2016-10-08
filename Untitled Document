@@ -1,0 +1,5 @@
+public class TesteGit {
+	public static void maind(String[] args){
+		System.out.println("Exemplo de teste");
+	}
+}
